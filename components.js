@@ -74,7 +74,7 @@ Vue.component('list-item', {
 Vue.component('custom-header', {
   template: `
     <header>
-      <h1>Lista de tarefas com Vue.JS</h1>
+      <h2 style="font-size: 50px">Lista de tarefas lbjbrdev</h2>
     </header>`
 })
 

@@ -2,20 +2,20 @@
   margin: 0;
   padding: 0;
   font-family: 'IBM Plex Sans', sans-serif;
-  color: #343a40;
+  color: #f6fafd;
   user-select: none;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Lato', sans-serif;
-  color: #343a40
+  color: #fff
 }
 
 #app {
   display: grid;
   grid-template-rows: auto 1fr auto;
   height: 100vh;
-  background-color: #f8f9fa;
+  background-color: #3d3e3f;
 }
 
 /* https://vuejs.org/v2/api/#v-cloak */

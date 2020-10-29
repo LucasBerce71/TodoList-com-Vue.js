@@ -2,8 +2,9 @@
 input[type=text] {
     padding: 5px;
     margin: 0 10px;
-    border: 2px solid #ced4da;
+    border: 2px solid #131416;
     border-radius: 4px;
+    color: #000;
 }
 
 /* list-stats */
@@ -17,8 +18,8 @@ input[type=text] {
   align-items: center;
   margin: 10px 0;
   padding: 12px 0 10px 10px;
-  background-color: #e9ecef;
-  box-shadow: 3px 3px 10px #e9ecef;
+  background-color: rgb(83, 78, 78);
+  box-shadow: 3px 3px 10px rgb(175, 169, 169);
   border-radius: 4px;
   overflow: hidden;
   transition: transform 0.1s ease-in-out;
@@ -26,7 +27,7 @@ input[type=text] {
 
 .item:hover {
   transform: translateY(-3px) scale(1.02);
-  box-shadow: 3px 3px 10px #d0ebff;
+  box-shadow: 3px 3px 10px #FFF;
   transition: all 0.1s ease-in-out;
 }
 

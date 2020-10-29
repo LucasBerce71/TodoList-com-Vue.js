@@ -16,12 +16,12 @@
 
 /* svg color, changes on hover of element with class `.item` */
 .item svg {
-  stroke: #adb5bd;
+  stroke: #f1f3f5;
   transition: stroke 0.1s ease-in-out;
 }
 
 .item:hover svg {
-  stroke: #495057;
+  stroke: #fcfeff;
   transition: stroke 0.1s ease-in-out;
 }
 
